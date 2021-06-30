@@ -1,0 +1,5 @@
+
+    const cmd = require("/Users/mrseanbaines-pleo/projects/pleo/gatsby-monorepo-test/projects/website/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":62711,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/Users/mrseanbaines-pleo/projects/pleo/gatsby-monorepo-test/projects/website","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"website","version":"0.0.0","private":true,"scripts":{"start":"gatsby develop","clean":"gatsby clean"},"dependencies":{"gatsby":"2.32.13"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  

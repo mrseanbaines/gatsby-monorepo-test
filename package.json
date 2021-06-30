@@ -1,0 +1,16 @@
+{
+  "name": "commercial-helios",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "projects/*"
+  ],
+  "scripts": {
+    "website": "yarn workspace website",
+    "blog": "yarn workspace blog"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
